@@ -3,3 +3,5 @@ Forecasting and analyzing product closure percentage by market. Trends in produc
 ## Screenshots:
 ### Computer View
 ![alt text](https://github.com/Sanathbny/PowerBI-salesreport/blob/main/Power_bi.png)
+### Computer View
+![alt text](https://github.com/Sanathbny/PowerBI-salesreport/blob/main/Power_bi2.png)
